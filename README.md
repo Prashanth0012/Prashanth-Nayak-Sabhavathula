@@ -1,4 +1,4 @@
-# Prashanth-Nayak-Sabhavathula
+
 # Hi, I'm Prashanth 👋
 
 Backend developer focused on building database-driven web applications using PHP and MySQL. I enjoy designing structured systems such as Inventory Management Systems and ERP-style applications.
