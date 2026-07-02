@@ -1,46 +1,43 @@
-
 # Hi, I'm Prashanth 👋
 
-Backend developer focused on building database-driven web applications using PHP and MySQL. I enjoy designing structured systems such as Inventory Management Systems and ERP-style applications.
+**Backend Developer** building ERP, inventory, and business document systems with PHP, MySQL, and Python.
 
-## 🚀 About Me
+I like solving the unglamorous problems that keep real businesses running — inventory tracking, invoice generation, freight billing, HR workflows — and I'm now extending that into Python/FastAPI and AI-powered tooling.
 
-- Backend developer with focus on PHP & MySQL
-- Experienced in building inventory and data management systems
-- Strong understanding of relational databases and SQL queries
-- Interested in ERP systems and business automation software
-- Passionate about creating practical business applications
+---
 
-## 🛠️ Technologies
+### 🔧 What I work with
 
-- PHP
-- MySQL
-- SQL
-- HTML
-- CSS
-- XAMPP
-- FPDF
+**Backend:** PHP · Python (FastAPI) · MySQL · REST APIs · JWT Auth
+**Data & AI:** SQL · Power BI · Tableau · FAISS vector search · LLM integration (OpenAI / Groq / Ollama)
+**Tools:** Docker · Git · FPDF
 
-## 📦 Featured Project
+---
 
-### AlmaInventario
-A web-based Inventory Management System built with PHP and MySQL.
+### 🚀 Featured Projects
 
-Features include:
-- Product and supplier management
-- Inventory tracking
-- Stock IN and Stock OUT
-- Sales management
-- Invoice generation
-- CSV / Excel / PDF report exports
+**[AlmaInventario](https://github.com/Prashanth0012/AlmaInventario)**
+A full ERP inventory management system — products, categories, suppliers, stock transactions, sales, and PDF invoice generation, with role-based access control.
+`PHP` `MySQL` `FPDF`
 
-## 🎯 Current Focus
+**Enterprise AI HR Copilot**
+A full-stack HR assistant combining FastAPI, MySQL, JWT auth, FAISS vector search, and LLM integration (OpenAI/Groq/Ollama), containerized with Docker.
+`Python` `FastAPI` `FAISS` `Docker`
 
-- Backend development
-- Database architecture
-- ERP-style system development
-- Business application development
+**[Mini_ERP](https://github.com/Prashanth0012/Mini_ERP)**
+Lightweight ERP with admin-approved registration and purchase/sales tracking.
+`PHP` `JavaScript`
 
-## 📫 Connect With Me
+---
 
-LinkedIn: https://linkedin.com
+### 💼 Currently
+
+Working as a Software Engineer at **Brevity Softtech**, building ERP and business document generation systems (PHP/MySQL) — including automated billing templates, invoice systems, and HR modules.
+
+Open to **Backend**, **Full Stack**, and **ERP/Business Systems Developer** roles.
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://linkedin.com/in/prashanth-nayak-64444b213) · Hyderabad, India
